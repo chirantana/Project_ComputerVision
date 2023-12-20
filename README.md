@@ -1,7 +1,10 @@
 # CV-Project
 
-## Warning: This content is NSFW (Not Safe For Work)
+## Warning: Some content is NSFW (Not Safe For Work).
 ## The dataset folders original and photoshop contain material that may be offensive or inappropriate for some audiences. Viewer discretion is advised.
+
+
+# Performance Metrics
 
 | Model      | 1000 Train | 1000 Test | 1000 F1 | 5000 Train | 5000 Test | 5000 F1 | 10000 Train | 10000 Test | 10000 F1 | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | 
