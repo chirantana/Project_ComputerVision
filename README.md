@@ -24,7 +24,7 @@ Results for the model "ELA + ResNeXT": Run the "data.ipynb" notebook first to pr
 Run the "plots.ipynb" notebook for Train Accuracy plot and confusion matrix of the best performing model.
 
 
-<img src="hhttps://github.com/chirantana/Project_ComputerVision/blob/main/plot.png" width="400" height="300"> <img src="https://github.com/chirantana/Project_ComputerVision/blob/main/Confusion%20Matrix.png" width="400" height="300">
+<img src="https://github.com/chirantana/Project_ComputerVision/blob/main/plot.png" width="400" height="300"> <img src="https://github.com/chirantana/Project_ComputerVision/blob/main/Confusion%20Matrix.png" width="400" height="300">
 
 # Project Poster:
 
