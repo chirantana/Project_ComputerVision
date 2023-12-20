@@ -1,7 +1,7 @@
 # CV-Project
 
 ## Warning: Some content is NSFW (Not Safe For Work).
-## The dataset folders original and photoshop contain material that may be offensive or inappropriate for some audiences. Viewer discretion is advised.
+## The dataset folders "originals" and "photoshops" contain material that may be offensive or inappropriate for some audiences. Viewer discretion is advised.
 
 
 # Performance Metrics
