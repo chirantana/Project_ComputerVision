@@ -22,4 +22,4 @@ Run the "plots.ipynb" notebook for Train Accuracy plot and confusion matrix of t
 
 # Project Poster:
 
-<img src="https://github.iu.edu/jbhendri/CV-Project/blob/0ac1074c41042cb1e92d995a878738d375eb58f2/CV_Posterpdf.png" width="900" height="700">
+<img src="https://github.com/chirantana/Project_ComputerVision/blob/main/CV_Posterpdf.png" width="900" height="700">
