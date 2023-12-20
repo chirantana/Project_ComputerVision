@@ -1,5 +1,8 @@
 # CV-Project
 
+## Warning: This content is NSFW (Not Safe For Work)
+## The dataset folders original and photoshop contain material that may be offensive or inappropriate for some audiences. Viewer discretion is advised.
+
 | Model      | 1000 Train | 1000 Test | 1000 F1 | 5000 Train | 5000 Test | 5000 F1 | 10000 Train | 10000 Test | 10000 F1 | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- | 
 | ResNet50     | 0.88 | 0.64 | 0.61 | 0.88 | 0.72 | 0.71 | 0.93 | 0.88 | 0.87 |
@@ -18,7 +21,7 @@ Results for the model "ELA + ResNeXT": Run the "data.ipynb" notebook first to pr
 Run the "plots.ipynb" notebook for Train Accuracy plot and confusion matrix of the best performing model.
 
 
-<img src="hhttps://github.com/chirantana/Project_ComputerVision/blob/main/plot.png" width="400" height="300"> <img src="https://github.iu.edu/jbhendri/CV-Project/blob/0ac1074c41042cb1e92d995a878738d375eb58f2/Confusion%20Matrix.png" width="400" height="300">
+<img src="hhttps://github.com/chirantana/Project_ComputerVision/blob/main/plot.png" width="400" height="300"> <img src="https://github.com/chirantana/Project_ComputerVision/blob/main/Confusion%20Matrix.png" width="400" height="300">
 
 # Project Poster:
 
